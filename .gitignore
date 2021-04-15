@@ -1,0 +1,8 @@
+# pdf files #
+#############
+*.pdf
+
+# large database files #
+#############
+*.csv
+*.data
